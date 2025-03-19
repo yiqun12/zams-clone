@@ -32,8 +32,8 @@ npm run build
 
 ### 2. Deployment
 
-- Live Demo: [https://zams-fn9d.vercel.app/](https://zams-fn9d.vercel.app/)
-- Admin Dashboard: [https://zams-fn9d.vercel.app/admin](https://zams-fn9d.vercel.app/admin)
+- Live Demo: [https://zams-clone.vercel.app/](https://zams-clone.vercel.app/)
+- Admin Dashboard: [https://zams-clone.vercel.app/admin](https://zams-clone.vercel.app/admin)
 - Basic Vercel deployment
 
 ## Pixel-Perfect Recreation
