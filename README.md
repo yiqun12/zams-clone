@@ -9,7 +9,7 @@ A modern, responsive chat interface built with Next.js, Tailwind CSS, and ShadCN
 1. Clone the repository:
 
 ```bash
-git clone [repository-url]
+git clone [[repository-url]](https://github.com/yiqun12/zams-clone)
 ```
 
 2. Install dependencies:
